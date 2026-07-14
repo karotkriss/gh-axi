@@ -18,6 +18,13 @@
 - **errors:** classify mixed-case generic `not found` gh errors as `NOT_FOUND`
   instead of falling back to `UNKNOWN`
 
+## [0.1.28](https://github.com/kunchenguid/gh-axi/compare/gh-axi-v0.1.27...gh-axi-v0.1.28) (2026-07-14)
+
+
+### Bug Fixes
+
+* **pr:** classify legacy commit statuses and red check runs correctly ([#71](https://github.com/kunchenguid/gh-axi/issues/71)) ([291fc1a](https://github.com/kunchenguid/gh-axi/commit/291fc1af90005f3c9b10b1ae2f640c2ed2d46abb))
+
 ## [0.1.27](https://github.com/kunchenguid/gh-axi/compare/gh-axi-v0.1.26...gh-axi-v0.1.27) (2026-07-12)
 
 
